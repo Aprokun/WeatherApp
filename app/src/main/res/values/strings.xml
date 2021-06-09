@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="name_your_city_town">Name your city/town</string>
+    <string name="weather">WEATHER</string>
+    <string name="select_button">SELECT</string>
+</resources>
